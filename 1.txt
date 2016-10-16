@@ -1,2 +1,7 @@
 i
+<<<<<<< HEAD
 bbbbbbb
+=======
+j
+k
+>>>>>>> 4af66abd01209ca3cf47e1edf0bb4a6afc2c48e2
